@@ -14,7 +14,7 @@ let  XP for entre 8.001 e 9.000 = Ascendente
 let  XP for entre 9.001 e 10.000= Imortal
 let  XP for maior ou igual a 10.001 = Radiante
 
-let selecionavel = false
+let selecionavel = true
 
 const notificacao = "Level Hero diz: " 
 
