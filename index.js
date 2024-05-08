@@ -1,6 +1,7 @@
 console.log("Level Hero");
 let nickname = "Vítor"
 let heroSexo = "M"
+let Level = 1.000
 
 console.log("Bem vindo" + nickname)
 console.log(nickname + "Entrou no servidor")
