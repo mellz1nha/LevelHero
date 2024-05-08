@@ -12,6 +12,7 @@ console.log("Bem vindo" + nickname)
 console.log(nickname + "Entrou no servidor")
 console.log(timeHero[0][1])
 
+
 let  XP1  menor do que 1.000=Ferro
 let  XP2  entre 1.001 e 2.000=Bronze
 let  XP3  entre 2.001 e 5.000 = Prata
